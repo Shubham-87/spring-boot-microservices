@@ -8,7 +8,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
+//This is Controller
 @RestController
 @RequestMapping("/api/inventory")
 @RequiredArgsConstructor
